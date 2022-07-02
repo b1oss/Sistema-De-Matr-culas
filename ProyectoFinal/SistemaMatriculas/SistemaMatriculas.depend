@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1656791011 source:d:\documents\2do\3ersemestre\cc2\nueva carpeta\sistemamatriculas\src\persona.cpp
+	<iostream>
+	"Persona.h"
+
+1656790853 d:\documents\2do\3ersemestre\cc2\nueva carpeta\sistemamatriculas\include\persona.h
+	<iostream>
+
