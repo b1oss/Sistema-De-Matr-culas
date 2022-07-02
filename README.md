@@ -1,2 +1,2 @@
-# Sistema-De-Matr-culas
+# Sistema-De-Matriculas
 Proyecto Final CCII
